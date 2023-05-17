@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;700&family=Montserrat:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500&display=swap');
+
+body{
+    font-family: 'Instrument Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    border: none;
+    background-color: chartreuse;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 5px 22px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: coral;
+}
